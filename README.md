@@ -47,11 +47,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshar278&layout=compact&theme=radical" height="165">
 </p>
 
+<p align = "center>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sshar278&theme=radical)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sshar278&theme=react-dark)
-
+</p>
 
 ---
+
+---
+
+### 📈 By the Numbers
+
+| Metric | Value |
+|--------|-------|
+| Public Repos | ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sshar278&label=repositories&query=$.public_repos&style=flat-square&color=blue) |
+| Followers | ![Followers](https://img.shields.io/github/followers/sshar278?label=followers&style=flat-square) |
+| Stars Received | ![Stars](https://img.shields.io/github/stars/sshar278?affiliations=OWNER&style=flat-square) |
+| Languages Used | Python · Java · C# · JS / TS |
+| Activity Level | 🟢 Active this month |
+
 
 ### 🌐 Connect with Me
 <p align="center">
