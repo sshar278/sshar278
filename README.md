@@ -47,9 +47,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshar278&layout=compact&theme=radical" height="165">
 </p>
 
-<p align = "center>
-![GitHub Streak](https://streak-stats.demolab.com/?user=sshar278&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sshar278&theme=react-dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sshar278&theme=radical" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sshar278&theme=react-dark" alt="GitHub Activity Graph"/>
 </p>
 
 ---
