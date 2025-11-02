@@ -31,7 +31,7 @@
 
 | Project | Description | Tech | Links |
 |----------|--------------|------|-------|
-| 🏗 **Auto BIM Route AI** | Migrated BIM desktop app → mobile (↑ 27 % engagement) and built 3D electrical viewer cutting latency 34 s | React Native, D3.js, MongoDB | [Repo](https://github.com/sshar278) |
+| 🏗 **Auto BIM Route AI** | Migrated BIM desktop app → mobile (↑ 27 % engagement) and built 3D electrical viewer cutting latency 34 s | React Native, D3.js, MongoDB | [Repo](https://github.com/atharva-date/SER517-Industry-Team5) |
 | ⚡ **Optimal HRV Backend** | Django API & CI/CD on AWS (↓ deploy time 15 → 2 min, downtime < 90 s) | Python, Django, AWS EC2/S3 Docker | — |
 | 🎮 **Educational Shooting Game** | Unity C# game teaching programming logic to high-school students at ASU Open Door | Unity, C#, OOP Patterns | — |
 | 🗳 **VoteSense ML Pipeline** | Election prediction model (76.4 % accuracy on noisy data) | Python, Scikit-learn Pandas | [Repo](https://github.com/sshar278/ser594_23fc_project) |
